@@ -1,3 +1,5 @@
+#include "utils.h"
+
 static float	get_nearest(int nb)
 {	
 	long	i;
